@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "harjoitus1-ajoneuvo", "harjoitus1-ajoneuvo\harjoitus1-ajoneuvo.csproj", "{448DB26F-67C9-471B-93F8-B30E9F6CFAE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "harjoitus2-opikelija", "harjoitus2-opikelija\harjoitus2-opikelija.csproj", "{773D7D4A-93C3-4BFD-A3DA-4A4E6090F0B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "harojoitus3-kiaas", "harojoitus3-kiaas\harojoitus3-kiaas.csproj", "{97BBF436-7693-4E43-A6A7-EBA059E1DB5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{448DB26F-67C9-471B-93F8-B30E9F6CFAE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{448DB26F-67C9-471B-93F8-B30E9F6CFAE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{448DB26F-67C9-471B-93F8-B30E9F6CFAE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{773D7D4A-93C3-4BFD-A3DA-4A4E6090F0B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{773D7D4A-93C3-4BFD-A3DA-4A4E6090F0B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{773D7D4A-93C3-4BFD-A3DA-4A4E6090F0B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{773D7D4A-93C3-4BFD-A3DA-4A4E6090F0B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97BBF436-7693-4E43-A6A7-EBA059E1DB5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97BBF436-7693-4E43-A6A7-EBA059E1DB5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97BBF436-7693-4E43-A6A7-EBA059E1DB5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97BBF436-7693-4E43-A6A7-EBA059E1DB5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -6,12 +6,34 @@ namespace harjoitus1_ajoneuvo
     {
         static void Main(string[] args)
         {
-            //tahan tulee kaikki oliot kutsut
+            // olio ajoneuvo -luokasta
+            ajoneuvo auto = new ajoneuvo();
 
-            //anmetaan olion sisallo
+            // asetetaan oliolle "auto" arvot 
+            auto.nimi = "volvo";
+            auto.nopeus = 200;
+            auto.renkaat = 4;
 
-            //kutsutaan metodit
-            Console.WriteLine("Hello World!");
+            // kaytetaan "auto" olion toimintoja
+            auto.tulostadata();
+
+            // noudetetaan auton tiedot Tostring() metodilla
+            string autontietot = auto.Tostring();   
+            Console.WriteLine(autontietot);
+
+            //tyhja rivi konsoliin
+            Console.WriteLine();
+
+            // luodaan toinen olio luokasta ajoneuvo
+
+            ajoneuvo mopo = new ajoneuvo();
+            mopo.nimi = "skootteri";
+            mopo.nopeus = 100;
+            mopo.renkaat = 2;
+
+            mopo.tulostadata();
+            Console.WriteLine(mopo.Tostring());
+            
         }
     }
 }
