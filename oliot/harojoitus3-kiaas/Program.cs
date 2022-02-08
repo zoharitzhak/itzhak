@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace harojoitus3_kiaas
+namespace harojoitus3_kiuas
 {
     class Program
     {

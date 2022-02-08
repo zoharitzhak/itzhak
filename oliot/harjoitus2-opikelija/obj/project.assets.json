@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zohar jitzhak\\source\\repos\\zoharitzhak\\itzhak\\oliot\\harjoitus2-opikelija\\harjoitus2-opikelija.csproj",
-      "projectName": "harjoitus2-opikelija",
-      "projectPath": "C:\\Users\\zohar jitzhak\\source\\repos\\zoharitzhak\\itzhak\\oliot\\harjoitus2-opikelija\\harjoitus2-opikelija.csproj",
+      "projectUniqueName": "C:\\Users\\zohar jitzhak\\source\\repos\\zoharitzhak\\itzhak\\oliot\\harjoitus2-opikelija\\harjoitus2-opiskelija.csproj",
+      "projectName": "harjoitus2-opiskelija",
+      "projectPath": "C:\\Users\\zohar jitzhak\\source\\repos\\zoharitzhak\\itzhak\\oliot\\harjoitus2-opikelija\\harjoitus2-opiskelija.csproj",
       "packagesPath": "C:\\Users\\zohar jitzhak\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\zohar jitzhak\\source\\repos\\zoharitzhak\\itzhak\\oliot\\harjoitus2-opikelija\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,0 +1,5 @@
+C:\Users\zohar jitzhak\source\repos\zoharitzhak\itzhak\oliot\harjoitus1-ajoneuvo\obj\Release\netcoreapp3.1\harjoitus1-ajoneuvo.csproj.AssemblyReference.cache
+C:\Users\zohar jitzhak\source\repos\zoharitzhak\itzhak\oliot\harjoitus1-ajoneuvo\obj\Release\netcoreapp3.1\harjoitus1-ajoneuvo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zohar jitzhak\source\repos\zoharitzhak\itzhak\oliot\harjoitus1-ajoneuvo\obj\Release\netcoreapp3.1\harjoitus1-ajoneuvo.AssemblyInfoInputs.cache
+C:\Users\zohar jitzhak\source\repos\zoharitzhak\itzhak\oliot\harjoitus1-ajoneuvo\obj\Release\netcoreapp3.1\harjoitus1-ajoneuvo.AssemblyInfo.cs
+C:\Users\zohar jitzhak\source\repos\zoharitzhak\itzhak\oliot\harjoitus1-ajoneuvo\obj\Release\netcoreapp3.1\harjoitus1-ajoneuvo.csproj.CoreCompileInputs.cache

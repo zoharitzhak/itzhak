@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zohar jitzhak\\source\\repos\\zoharitzhak\\itzhak\\oliot\\harojoitus3-kiaas\\harojoitus3-kiaas.csproj",
-      "projectName": "harojoitus3-kiaas",
-      "projectPath": "C:\\Users\\zohar jitzhak\\source\\repos\\zoharitzhak\\itzhak\\oliot\\harojoitus3-kiaas\\harojoitus3-kiaas.csproj",
+      "projectUniqueName": "C:\\Users\\zohar jitzhak\\source\\repos\\zoharitzhak\\itzhak\\oliot\\harojoitus3-kiaas\\harjoitus3-kiuas.csproj",
+      "projectName": "harjoitus3-kiuas",
+      "projectPath": "C:\\Users\\zohar jitzhak\\source\\repos\\zoharitzhak\\itzhak\\oliot\\harojoitus3-kiaas\\harjoitus3-kiuas.csproj",
       "packagesPath": "C:\\Users\\zohar jitzhak\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\zohar jitzhak\\source\\repos\\zoharitzhak\\itzhak\\oliot\\harojoitus3-kiaas\\obj\\",
       "projectStyle": "PackageReference",

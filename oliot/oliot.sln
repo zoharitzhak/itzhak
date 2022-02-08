@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "harjoitus1-ajoneuvo", "harjoitus1-ajoneuvo\harjoitus1-ajoneuvo.csproj", "{448DB26F-67C9-471B-93F8-B30E9F6CFAE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "harjoitus2-opikelija", "harjoitus2-opikelija\harjoitus2-opikelija.csproj", "{773D7D4A-93C3-4BFD-A3DA-4A4E6090F0B9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "harjoitus2-opiskelija", "harjoitus2-opikelija\harjoitus2-opiskelija.csproj", "{773D7D4A-93C3-4BFD-A3DA-4A4E6090F0B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "harojoitus3-kiaas", "harojoitus3-kiaas\harojoitus3-kiaas.csproj", "{97BBF436-7693-4E43-A6A7-EBA059E1DB5B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "harjoitus3-kiuas", "harojoitus3-kiaas\harjoitus3-kiuas.csproj", "{97BBF436-7693-4E43-A6A7-EBA059E1DB5B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

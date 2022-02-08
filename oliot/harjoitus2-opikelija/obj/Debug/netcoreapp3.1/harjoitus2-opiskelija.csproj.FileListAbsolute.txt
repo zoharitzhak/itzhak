@@ -1,0 +1,14 @@
+C:\Users\zohar jitzhak\source\repos\zoharitzhak\itzhak\oliot\harjoitus2-opikelija\obj\Debug\netcoreapp3.1\harjoitus2-opiskelija.csproj.AssemblyReference.cache
+C:\Users\zohar jitzhak\source\repos\zoharitzhak\itzhak\oliot\harjoitus2-opikelija\obj\Debug\netcoreapp3.1\harjoitus2-opiskelija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zohar jitzhak\source\repos\zoharitzhak\itzhak\oliot\harjoitus2-opikelija\obj\Debug\netcoreapp3.1\harjoitus2-opiskelija.AssemblyInfoInputs.cache
+C:\Users\zohar jitzhak\source\repos\zoharitzhak\itzhak\oliot\harjoitus2-opikelija\obj\Debug\netcoreapp3.1\harjoitus2-opiskelija.AssemblyInfo.cs
+C:\Users\zohar jitzhak\source\repos\zoharitzhak\itzhak\oliot\harjoitus2-opikelija\obj\Debug\netcoreapp3.1\harjoitus2-opiskelija.csproj.CoreCompileInputs.cache
+C:\Users\zohar jitzhak\source\repos\zoharitzhak\itzhak\oliot\harjoitus2-opikelija\bin\Debug\netcoreapp3.1\harjoitus2-opiskelija.exe
+C:\Users\zohar jitzhak\source\repos\zoharitzhak\itzhak\oliot\harjoitus2-opikelija\bin\Debug\netcoreapp3.1\harjoitus2-opiskelija.deps.json
+C:\Users\zohar jitzhak\source\repos\zoharitzhak\itzhak\oliot\harjoitus2-opikelija\bin\Debug\netcoreapp3.1\harjoitus2-opiskelija.runtimeconfig.json
+C:\Users\zohar jitzhak\source\repos\zoharitzhak\itzhak\oliot\harjoitus2-opikelija\bin\Debug\netcoreapp3.1\harjoitus2-opiskelija.runtimeconfig.dev.json
+C:\Users\zohar jitzhak\source\repos\zoharitzhak\itzhak\oliot\harjoitus2-opikelija\bin\Debug\netcoreapp3.1\harjoitus2-opiskelija.dll
+C:\Users\zohar jitzhak\source\repos\zoharitzhak\itzhak\oliot\harjoitus2-opikelija\bin\Debug\netcoreapp3.1\harjoitus2-opiskelija.pdb
+C:\Users\zohar jitzhak\source\repos\zoharitzhak\itzhak\oliot\harjoitus2-opikelija\obj\Debug\netcoreapp3.1\harjoitus2-opiskelija.dll
+C:\Users\zohar jitzhak\source\repos\zoharitzhak\itzhak\oliot\harjoitus2-opikelija\obj\Debug\netcoreapp3.1\harjoitus2-opiskelija.pdb
+C:\Users\zohar jitzhak\source\repos\zoharitzhak\itzhak\oliot\harjoitus2-opikelija\obj\Debug\netcoreapp3.1\harjoitus2-opiskelija.genruntimeconfig.cache
