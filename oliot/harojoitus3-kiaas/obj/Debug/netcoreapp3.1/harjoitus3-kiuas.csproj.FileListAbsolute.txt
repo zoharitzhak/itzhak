@@ -1,0 +1,14 @@
+C:\Users\zohar jitzhak\source\repos\zoharitzhak\itzhak\oliot\harojoitus3-kiaas\bin\Debug\netcoreapp3.1\harjoitus3-kiuas.exe
+C:\Users\zohar jitzhak\source\repos\zoharitzhak\itzhak\oliot\harojoitus3-kiaas\bin\Debug\netcoreapp3.1\harjoitus3-kiuas.deps.json
+C:\Users\zohar jitzhak\source\repos\zoharitzhak\itzhak\oliot\harojoitus3-kiaas\bin\Debug\netcoreapp3.1\harjoitus3-kiuas.runtimeconfig.json
+C:\Users\zohar jitzhak\source\repos\zoharitzhak\itzhak\oliot\harojoitus3-kiaas\bin\Debug\netcoreapp3.1\harjoitus3-kiuas.runtimeconfig.dev.json
+C:\Users\zohar jitzhak\source\repos\zoharitzhak\itzhak\oliot\harojoitus3-kiaas\bin\Debug\netcoreapp3.1\harjoitus3-kiuas.dll
+C:\Users\zohar jitzhak\source\repos\zoharitzhak\itzhak\oliot\harojoitus3-kiaas\bin\Debug\netcoreapp3.1\harjoitus3-kiuas.pdb
+C:\Users\zohar jitzhak\source\repos\zoharitzhak\itzhak\oliot\harojoitus3-kiaas\obj\Debug\netcoreapp3.1\harjoitus3-kiuas.csproj.AssemblyReference.cache
+C:\Users\zohar jitzhak\source\repos\zoharitzhak\itzhak\oliot\harojoitus3-kiaas\obj\Debug\netcoreapp3.1\harjoitus3-kiuas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zohar jitzhak\source\repos\zoharitzhak\itzhak\oliot\harojoitus3-kiaas\obj\Debug\netcoreapp3.1\harjoitus3-kiuas.AssemblyInfoInputs.cache
+C:\Users\zohar jitzhak\source\repos\zoharitzhak\itzhak\oliot\harojoitus3-kiaas\obj\Debug\netcoreapp3.1\harjoitus3-kiuas.AssemblyInfo.cs
+C:\Users\zohar jitzhak\source\repos\zoharitzhak\itzhak\oliot\harojoitus3-kiaas\obj\Debug\netcoreapp3.1\harjoitus3-kiuas.csproj.CoreCompileInputs.cache
+C:\Users\zohar jitzhak\source\repos\zoharitzhak\itzhak\oliot\harojoitus3-kiaas\obj\Debug\netcoreapp3.1\harjoitus3-kiuas.dll
+C:\Users\zohar jitzhak\source\repos\zoharitzhak\itzhak\oliot\harojoitus3-kiaas\obj\Debug\netcoreapp3.1\harjoitus3-kiuas.pdb
+C:\Users\zohar jitzhak\source\repos\zoharitzhak\itzhak\oliot\harojoitus3-kiaas\obj\Debug\netcoreapp3.1\harjoitus3-kiuas.genruntimeconfig.cache
